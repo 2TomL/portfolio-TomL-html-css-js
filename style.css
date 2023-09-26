@@ -428,9 +428,11 @@ footer {
 footer p {
   text-align: center;
 }
-#game{
-  
+#game {
+  position: relative;
 }
-.game-result-images img{
-  width: 100px;
+.game-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
