@@ -44,7 +44,7 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   text-decoration-color: white;
 }
@@ -229,7 +229,7 @@ section {
 
 .btn-color-1,
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(27, 27, 27) 0.1rem solid;
 }
 
 .btn-color-1:hover,
@@ -239,7 +239,7 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: rgb(23, 23, 23);
   color: white;
 }
 
